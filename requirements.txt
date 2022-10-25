@@ -1,98 +1,16 @@
-absl-py==1.3.0
-arviz @ file:///home/conda/feedstock_root/build_artifacts/arviz_1666645025910/work
-astunparse==1.6.3
-brotlipy==0.7.0
-cachetools==5.2.0
-certifi @ file:///C:/b/abs_ac29jvt43w/croot/certifi_1665076682579/work/certifi
-cffi @ file:///C:/Windows/Temp/abs_6808y9x40v/croots/recipe/cffi_1659598653989/work
-cftime @ file:///C:/ci/cftime_1638340492698/work
-charset-normalizer==2.1.1
-cmdstanpy==0.9.5
-colorama==0.4.6
-contourpy==1.0.5
-convertdate @ file:///home/conda/feedstock_root/build_artifacts/convertdate_1642883757836/work
-cryptography @ file:///C:/b/abs_36x9ifdcl4/croot/cryptography_1665612655344/work
-cycler @ file:///home/conda/feedstock_root/build_artifacts/cycler_1635519461629/work
-Cython @ file:///D:/bld/cython_1659102040100/work
-ephem @ file:///D:/bld/ephem_1649637363231/work
-fbprophet @ file:///D:/bld/fbprophet_1599365958928/work
-flatbuffers==22.9.24
-fonttools==4.38.0
-gast==0.4.0
-google-auth==2.13.0
-google-auth-oauthlib==0.4.6
-google-pasta==0.2.0
-grpcio==1.50.0
-h5py==3.7.0
-hijri-converter @ file:///home/conda/feedstock_root/build_artifacts/hijri-converter_1653348285237/work
-holidays @ file:///home/conda/feedstock_root/build_artifacts/holidays_1663340966408/work
-idna @ file:///C:/b/abs_bdhbebrioa/croot/idna_1666125572046/work
-importlib-metadata==5.0.0
-joblib==1.2.0
-kaggle==1.5.12
-keras==2.10.0
-Keras-Preprocessing==1.1.2
-kiwisolver @ file:///D:/bld/kiwisolver_1657953191714/work
-korean-lunar-calendar @ file:///home/conda/feedstock_root/build_artifacts/korean_lunar_calendar_1663341251025/work
-libclang==14.0.6
-lightgbm==3.3.3
-LunarCalendar==0.0.9
-Markdown==3.4.1
-MarkupSafe==2.1.1
-matplotlib==3.6.0
-netCDF4 @ file:///C:/ci/netcdf4_1643100794817/work
-numpy==1.23.4
-oauthlib==3.2.2
-opencv-python==4.6.0.66
-opt-einsum==3.3.0
-packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1637239678211/work
-pandas==1.5.1
-Pillow==9.2.0
-plotly==5.10.0
-protobuf==3.19.6
-pyasn1==0.4.8
-pyasn1-modules==0.2.8
-pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
-PyMeeus==0.5.11
-pyOpenSSL @ file:///opt/conda/conda-bld/pyopenssl_1643788558760/work
-pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1652235407899/work
-PySocks @ file:///C:/ci/pysocks_1605287845585/work
-pystan==2.19.1.1
-python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
-python-slugify==6.1.2
-pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1666198565857/work
-requests @ file:///C:/ci/requests_1657717096906/work
-requests-oauthlib==1.3.1
-rsa==4.9
-scikit-learn==1.1.2
-scipy==1.9.3
-seaborn==0.12.1
-setuptools-git==1.2
-six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
-tenacity==8.1.0
-tensorboard==2.10.1
-tensorboard-data-server==0.6.1
-tensorboard-plugin-wit==1.8.1
-tensorflow==2.10.0
-tensorflow-estimator==2.10.0
-tensorflow-io-gcs-filesystem==0.27.0
-termcolor==2.0.1
-text-unidecode==1.3
-Theano==1.0.5
-threadpoolctl==3.1.0
-torch==1.12.1
-torchaudio==0.12.1
-torchvision==0.13.1
-tornado @ file:///D:/bld/tornado_1656937958156/work
-tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1662214488106/work
-typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1665144421445/work
-urllib3 @ file:///C:/b/abs_a8_3vfznn_/croot/urllib3_1666298943664/work
-Werkzeug==2.2.2
-win-inet-pton @ file:///C:/ci/win_inet_pton_1605306167264/work
-wincertstore==0.2
-wrapt==1.14.1
-xarray @ file:///home/conda/feedstock_root/build_artifacts/xarray_1665755225601/work
-xarray-einstats @ file:///home/conda/feedstock_root/build_artifacts/xarray-einstats_1655671011237/work
-xgboost==1.6.2
-yellowbrick==1.5
-zipp==3.10.0
+kaggle
+keras
+matplotlib
+numpy
+oauthlib
+opencv-python
+pandas
+torch
+scikit-learn
+seaborn
+tensorflow
+theano
+torch
+xgboost
+yellowbrick
+lightgbm
